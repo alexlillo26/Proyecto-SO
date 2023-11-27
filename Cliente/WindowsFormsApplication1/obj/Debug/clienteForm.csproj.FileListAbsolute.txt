@@ -1,0 +1,160 @@
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\SOg\2011-2012-1\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\SOg\2011-2012-1\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017\ServidorSecuencial\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017\Sockets\DEmoClaseSockets\cliente2\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\2016-2017Q2\EjercicioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 2\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\VideosEjercciioGuia\Parte_1_ServidorSecuencial_1\cliente 2\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\VideosEjercciioGuia\Leccion1\Codigo\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\VideosEjercciioGuia\Leccion3\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Leccion3\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Leccion3\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Leccion3\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Leccion3\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\VideosEjercciioGuia\Leccion3\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\VideosEjercciioGuia\Leccion3\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\VideosEjercciioGuia\Leccion3\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\VideosEjercciioGuia\Leccion4\codigo - Còpia\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Leccion4\codigo - Còpia\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Leccion4\codigo - Còpia\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Leccion4\codigo - Còpia\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Docencia\SO\VideosEjercciioGuia\Leccion4\codigo - Còpia\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+E:\Docencia\SO\VideosEjercciioGuia\Leccion4\codigo - Còpia\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Docencia\SO\VideosEjercciioGuia\Leccion4\codigo - Còpia\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Docencia\SO\VideosEjercciioGuia\Leccion4\codigo - Còpia\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+E:\Docencia\SO\VideosEjercciioGuia\Leccion4\codigo\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Docencia\SO\VideosEjercciioGuia\Leccion4\codigo\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServidorConNotificaciones (1)\ClienteParaServidorConNotificaciones\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServidorConNotificaciones (1)\ClienteParaServidorConNotificaciones\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServidorConNotificaciones (1)\ClienteParaServidorConNotificaciones\WindowsFormsApplication1\obj\Debug\clienteForm.csprojAssemblyReference.cache
+F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServidorConNotificaciones (1)\ClienteParaServidorConNotificaciones\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServidorConNotificaciones (1)\ClienteParaServidorConNotificaciones\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServidorConNotificaciones (1)\ClienteParaServidorConNotificaciones\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServidorConNotificaciones (1)\ClienteParaServidorConNotificaciones\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
+F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServidorConNotificaciones (1)\ClienteParaServidorConNotificaciones\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServidorConNotificaciones (1)\ClienteParaServidorConNotificaciones\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.AssemblyReference.cache
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.SuggestedBindingRedirects.cache
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\share\PROYECTO SO\ProyectoAfterEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.AssemblyReference.cache
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.SuggestedBindingRedirects.cache
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\share\PROYECTO SO\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\share\Proyecto-SO-4\Proyecto_10_noviembre\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\share\Proyecto-SO-4\Proyecto_10_noviembre\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\share\Proyecto-SO-4\Proyecto_10_noviembre\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\share\Proyecto-SO-4\Proyecto_10_noviembre\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.AssemblyReference.cache
+C:\share\Proyecto-SO-4\Proyecto_10_noviembre\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\share\Proyecto-SO-4\Proyecto_10_noviembre\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\share\Proyecto-SO-4\Proyecto_10_noviembre\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\share\Proyecto-SO-4\Proyecto_10_noviembre\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
+C:\share\Proyecto-SO-4\Proyecto_10_noviembre\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\share\Proyecto-SO-4\Proyecto_10_noviembre\Proyecto 10 noviembre\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.AssemblyReference.cache
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.SuggestedBindingRedirects.cache
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\share\PROYECTO SO\Version 1 falta registrarse y iniciar sesion\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
