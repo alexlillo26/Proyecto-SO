@@ -1,0 +1,43 @@
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\GridOfCells\bin\Debug\GridOfCells.exe.config
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\GridOfCells\bin\Debug\GridOfCells.exe
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\GridOfCells\bin\Debug\GridOfCells.pdb
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\GridOfCells\obj\Debug\GridOfCells.csproj.AssemblyReference.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\GridOfCells\obj\Debug\GridOfCells.Form1.resources
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\GridOfCells\obj\Debug\GridOfCells.Properties.Resources.resources
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\GridOfCells\obj\Debug\GridOfCells.csproj.GenerateResource.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\GridOfCells\obj\Debug\GridOfCells.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\GridOfCells\obj\Debug\GridOfCells.exe
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\GridOfCells\obj\Debug\GridOfCells.pdb
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.csproj.AssemblyReference.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.Form1.resources
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.Properties.Resources.resources
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.csproj.GenerateResource.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.exe
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.pdb
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\bin\Debug\GridOfCells.exe.config
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\bin\Debug\GridOfCells.exe
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\bin\Debug\GridOfCells.pdb
+C:\Users\alexl\OneDrive\Documents\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\bin\Debug\GridOfCells.exe.config
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\bin\Debug\GridOfCells.exe
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\bin\Debug\GridOfCells.pdb
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.csproj.AssemblyReference.cache
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.Form1.resources
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.Properties.Resources.resources
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.csproj.GenerateResource.cache
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.exe
+C:\Users\alexl\OneDrive\Documentos\EETAC\3r Quadrimestre\Projecte de Programació\Setmana 4\GridOfCells\obj\Debug\GridOfCells.pdb
+C:\share\PROYECTO SO\GridOfCells\bin\Debug\GridOfCells.exe.config
+C:\share\PROYECTO SO\GridOfCells\bin\Debug\GridOfCells.exe
+C:\share\PROYECTO SO\GridOfCells\bin\Debug\GridOfCells.pdb
+C:\share\PROYECTO SO\GridOfCells\obj\Debug\GridOfCells.csproj.AssemblyReference.cache
+C:\share\PROYECTO SO\GridOfCells\obj\Debug\GridOfCells.csproj.SuggestedBindingRedirects.cache
+C:\share\PROYECTO SO\GridOfCells\obj\Debug\GridOfCells.Form1.resources
+C:\share\PROYECTO SO\GridOfCells\obj\Debug\GridOfCells.Properties.Resources.resources
+C:\share\PROYECTO SO\GridOfCells\obj\Debug\GridOfCells.csproj.GenerateResource.cache
+C:\share\PROYECTO SO\GridOfCells\obj\Debug\GridOfCells.csproj.CoreCompileInputs.cache
+C:\share\PROYECTO SO\GridOfCells\obj\Debug\GridOfCells.exe
+C:\share\PROYECTO SO\GridOfCells\obj\Debug\GridOfCells.pdb
